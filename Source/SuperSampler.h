@@ -11,3 +11,4 @@
 #pragma once
 
 #include <JuceHeader.h>
+juce::String fuckYouGitHub{ "You are just full of shit" };
