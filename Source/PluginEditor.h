@@ -28,6 +28,7 @@ private:
     // This reference is provided as a quick way for your editor to
     // access the processor object that created it.
     XiSamplerAudioProcessor& audioProcessor;
-
+    // Fuck you github
+    juce::String shit {"github is full of shit"};
     JUCE_DECLARE_NON_COPYABLE_WITH_LEAK_DETECTOR (XiSamplerAudioProcessorEditor)
 };
